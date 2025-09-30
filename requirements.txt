@@ -1,4 +1,5 @@
-pandas
-matplotlib
+Flask
 numpy
-seaborn
+tensorflow
+matplotlibscikit-learn
+plotly
